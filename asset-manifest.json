@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/scoutz52/movie_app/static/css/main.055c870e.chunk.css",
+    "main.js": "/scoutz52/movie_app/static/js/main.a5efdf8b.chunk.js",
+    "main.js.map": "/scoutz52/movie_app/static/js/main.a5efdf8b.chunk.js.map",
+    "runtime-main.js": "/scoutz52/movie_app/static/js/runtime-main.e24ec029.js",
+    "runtime-main.js.map": "/scoutz52/movie_app/static/js/runtime-main.e24ec029.js.map",
+    "static/js/2.7a685f1a.chunk.js": "/scoutz52/movie_app/static/js/2.7a685f1a.chunk.js",
+    "static/js/2.7a685f1a.chunk.js.map": "/scoutz52/movie_app/static/js/2.7a685f1a.chunk.js.map",
+    "index.html": "/scoutz52/movie_app/index.html",
+    "static/css/main.055c870e.chunk.css.map": "/scoutz52/movie_app/static/css/main.055c870e.chunk.css.map",
+    "static/js/2.7a685f1a.chunk.js.LICENSE.txt": "/scoutz52/movie_app/static/js/2.7a685f1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e24ec029.js",
+    "static/js/2.7a685f1a.chunk.js",
+    "static/css/main.055c870e.chunk.css",
+    "static/js/main.a5efdf8b.chunk.js"
+  ]
+}
